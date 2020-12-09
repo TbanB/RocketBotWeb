@@ -1,2 +1,4 @@
 
-rocketbotweb/config/settings.py
+rocketbotweb/rocketbotweb/config/settings.py
+
+rocketBot/config/auth.py
